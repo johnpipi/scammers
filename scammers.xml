@@ -1,0 +1,5 @@
+<Response>
+    <Say voice="woman">Hello, it has been detected that you are a scammer. Because of this we are flooding your phone
+        lines to prevent you from scamming additional people. This will not stop, until you stop.</Say>
+    <Play>http://demo.twilio.com/docs/classic.mp3</Play>
+</Response>
